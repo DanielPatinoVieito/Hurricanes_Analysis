@@ -147,7 +147,6 @@ print("""
 vi.5.- HURRICANES OF MORTALITY 5:""")
 print(mortality_dictionary[5])
 
-
 #hurricane that caused the most damage
 print("""
 vii.- HURRICANE THAT CAUSED THE MOST DAMAGE:""")

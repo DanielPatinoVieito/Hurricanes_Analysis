@@ -168,7 +168,7 @@ print("The hurricane that caused the greatest damage was " + top_hurricane_damag
 
 #damage scale 
 print("""
-vii.- HURRICANES DAMAGE SCALE DICTIONARY:""")
+viii.- HURRICANES DAMAGE SCALE DICTIONARY:""")
 
 def construct_clasification_per_damages(hurricanes_dictionary):
   damage_scale = {0: 0.0, 1: 100000000.0, 2: 1000000000.0, 3: 10000000000.0, 4: 50000000000.0}
@@ -191,20 +191,20 @@ def construct_clasification_per_damages(hurricanes_dictionary):
 damage_dictionary = construct_clasification_per_damages(hurricanes_dictionary)
 print(damage_dictionary)
 print("""
-vii.0.- HURRICANES OF DAMAGE 0:""")
+viii.0.- HURRICANES OF DAMAGE 0:""")
 print(damage_dictionary[0])
 print("""
-vii.1.- HURRICANES OF DAMAGE 1:""")
+viii.1.- HURRICANES OF DAMAGE 1:""")
 print(damage_dictionary[1])
 print("""
-vii.2.- HURRICANES OF DAMAGE 2:""")
+viii.2.- HURRICANES OF DAMAGE 2:""")
 print(damage_dictionary[2])
 print("""
-vii.3.- HURRICANES OF DAMAGE 3:""")
+viii.3.- HURRICANES OF DAMAGE 3:""")
 print(damage_dictionary[3])
 print("""
-vii.4.- HURRICANES OF DAMAGE 4:""")
+viii.4.- HURRICANES OF DAMAGE 4:""")
 print(damage_dictionary[4])
 print("""
-vii.5.- HURRICANES OF DAMAGE 5:""")
+viii.5.- HURRICANES OF DAMAGE 5:""")
 print(damage_dictionary[5])
